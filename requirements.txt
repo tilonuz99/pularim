@@ -3,7 +3,6 @@ banal
 blinker
 chardet
 click
-cloud-init
 configobj
 cryptography
 dataset
